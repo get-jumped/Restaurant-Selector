@@ -1,0 +1,35 @@
+Name              SitDown     Price     Type              Distance
+Go Fish         | NO        | $$      | Poke            | Close
+Angry Chicks    | NO        | $$      | Fried Chicken   | Mid
+Omeej2          | NO        | $$      | Poke            | Mid
+Marugame        | YES       | $$$     | Udon            | Close
+Marufuku        | YES       | $$$     | Ramen           | Close
+In n out        | NO        | $       | Burgers         | Far
+McDonalds       | NO        | $       | Burgers         | Close
+Saratoga Bagels | NO        | $       | Bagels          | Close
+Chic-fil-a      | NO        | $       | Fried Chicken   | Far
+Ike's           | NO        | $$      | Sandwich        | Close
+Panda Express   | NO        | $       | Fake Chinese    | Close
+Super Duper     | NO        | $       | Burgers         | Mid
+5 Guys          | NO        | $$      | Burgers         | Mid
+Fire Wings      | YES       | $$$     | Wings           | Mid
+L & L           | NO        | $$      | Hawaiian        | Mid
+La Cueva        | NO        | $$      | Mexican         | Mid
+Curry Hyuga     | NO        | $$$     | Curry           | Mid
+Dish n Dash     | NO        | $$      | Mediterranean   | Close
+Popeyes         | NO        | $       | Fried Chicken   | Close
+Harumi Sushi    | YES       | $$$     | Japanese        | Mid
+Sizzling Lunch	| YES	    | ?	      | ?               | Close
+Pho Bahn Mi	    | ?         | ?       | Vietnamese      | ?
+Bowl of Pho	    | ?         | ?       | Vietnamese      | ?
+Falffal Spot	| ?         | ?       | Mediterranean   | Far
+Chipotle	    | NO        | ?       | Mexican         | Close
+Koja		    | NO        | ?       | Korean/Japanese | Mid
+Ramen Hajime	| ?         | ?       | Ramen           | ?
+Dave's 		    | NO        | ?       | Fried Chicken   | Mid
+Nagi		    | YES       | ?       | Ramen           | Far
+O2 Valley	    | ?         | ?       | ?               | ?
+Bbq Chicken	    | NO        | ?       | Korean Chicken  | Far
+Udon Mugizo	    | YES       | ?       | Udon            | Mid
+Cicero's	    | NO        | ?       | Pizza           | Close
+Bonchon		    | NO	    | ?       | Korean Chicken  | Far
